@@ -13,3 +13,11 @@ h2 {
 	font-size:18px;
 	line-height:100%;
 }
+
+pul {
+	font-family:Helvetica, Arial;
+	font-size:12px;
+	margin-left:1em;
+	padding-left:0em;
+	line-height:16px;
+}
