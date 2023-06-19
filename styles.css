@@ -14,10 +14,24 @@ h2 {
 	line-height:100%;
 }
 
-pul {
+ul {
 	font-family:Helvetica, Arial;
 	font-size:12px;
 	margin-left:1em;
 	padding-left:0em;
 	line-height:16px;
+}
+
+a:link{color:#2e5aba; text-decoration:none;}
+a:visited{color:#2e5aba; text-decoration:none;}
+a:hover{color:#000099; text-decoration:underline;}
+a:active{color:#000000; text-decoration:none;}
+
+div#content {
+	width: 600px;
+	height: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #FFFFFF;
+	border: 20px solid #663300
 }
