@@ -1,6 +1,0 @@
-<!doctype html>
-<html>
-<body>
-<p>computing website, made on github</p>
-</body>
-</html>
