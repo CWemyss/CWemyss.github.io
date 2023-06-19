@@ -1,0 +1,15 @@
+body {
+	font-family:georgian;
+	background-color:#DCC1BB;
+}
+	
+h1,h2 {
+	color:#E55537;
+	font-family:Arial;
+	line-height:70%;
+}
+
+h2 {
+	font-size:18px;
+	line-height:100%;
+}
